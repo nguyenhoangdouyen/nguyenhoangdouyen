@@ -1,16 +1,16 @@
-## Hi there 👋
+# Nguyễn Hoàng Đỗ Uyên - Data Analyst  
 
-<!--
-**nguyenhoangdouyen/nguyenhoangdouyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | FMCG - Retail - E-commerce**  
+💡 Passionate about leveraging data for business insights and growth  
 
-Here are some ideas to get you started:
+## 🔹 About Me  
+- Background in **Trade & E-commerce**, transitioning to **Data Analytics**  
+- Strong focus on **SQL, Python, Power BI**, and business-driven analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Skills  
+```yaml
+**Technical:** **SQL** ((JOINS, CTEs, Aggregate Function, Window Functions), **Python** (Pandas, NumPy, Matplotlib, Seaborn), **Power BI**, **Basic Statistics & Analytics** (Hypothesis Testing, SPSS, AMOS), **Machine Learning** (Classification, Clustering).
+**Soft-skills:** Data Cleaning, Time Management, Collaboration, Critical Thinking
+
+## 🔗 More About Me
+LinkedIn: do-uyen-nguyen-hoang  
