@@ -12,5 +12,5 @@
 **Technical:** **SQL** ((JOINS, CTEs, Aggregate Function, Window Functions), **Python** (Pandas, NumPy, Matplotlib, Seaborn), **Power BI**, **Basic Statistics & Analytics** (Hypothesis Testing, SPSS, AMOS), **Machine Learning** (Classification, Clustering).
 **Soft-skills:** Data Cleaning, Time Management, Collaboration, Critical Thinking
 
-## 🔗 More About Me
-LinkedIn: do-uyen-nguyen-hoang  
+## 🔗 More About Me  
+**LinkedIn:** [do-uyen-nguyen-hoang](https://www.linkedin.com/in/do-uyen-nguyen-hoang/)  
