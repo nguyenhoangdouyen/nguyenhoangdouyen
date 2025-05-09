@@ -17,7 +17,7 @@ This project analyzes an E-commerce dataset using SQL in Google BigQuery, based 
 
 ---
 
-### [Purchasing Performance and Operational Optimization at AdventureWorks](https://github.com/nguyenhoangdouyen/Purchasing-Performance-and-Operational-Optimization-at-AdventureWorks-)  
+### [Purchasing Performance and Operational Optimization at AdventureWorks | Power BI](https://github.com/nguyenhoangdouyen/Purchasing-Performance-and-Operational-Optimization-at-AdventureWorks-)  
 An interactive dashboard to track purchasing efficiency and cost optimization, helping AdventureWorks ensure timely, cost-effective supply for manufacturing.
 
 ---
