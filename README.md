@@ -1,6 +1,6 @@
 # 👩‍💻 Nguyễn Hoàng Đỗ Uyên  
 **Data Analyst | FMCG & E-commerce Background**  
-📍 Ho Chi Minh City | 📧 nguyenhoangdouyen@gmail.com | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+📍 Ho Chi Minh City | 📧 nguyenhoangdouyen@gmail.com | [LinkedIn](https://www.linkedin.com/in/do-uyen-nguyen-hoang/)
 
 ---
 
@@ -12,43 +12,35 @@ Transitioning into Data Analytics from a background in FMCG and E-commerce, I le
 
 ## 📊 Featured Projects
 
+### [Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/nguyenhoangdouyen/Ecommerce-Web-Performance-Purchase-Behavior-Analysis-SQL-BigQuery-)  
+This project analyzes an E-commerce dataset using SQL in Google BigQuery, based on Google Analytics data. It focuses on extracting key business insights, including user behavior, revenue trends, bounce rates, cohort analysis, and purchase patterns.
 
 ---
 
-### [Ecommerce Web Performance Analysis](https://github.com/nguyenhoangdouyen/project-ecommerce-performance)  
-*SQL, BigQuery*  
-Cleaned ~1M rows of GA data. Analyzed transaction & engagement metrics to discover insights into buying behavior.
+### [Purchasing Performance and Operational Optimization at AdventureWorks](https://github.com/nguyenhoangdouyen/Purchasing-Performance-and-Operational-Optimization-at-AdventureWorks-)  
+An interactive dashboard to track purchasing efficiency and cost optimization, helping AdventureWorks ensure timely, cost-effective supply for manufacturing.
 
 ---
 
-### [AdventureWorks Purchasing Dashboard](https://github.com/nguyenhoangdouyen/project-adventureworks-dashboard)  
-*Power BI*  
-Processed 8.8K purchase orders, visualized fulfillment efficiency & vendor performance. Delivered optimization insights.
+### [Sales Performance & Market Expansion For A Global Superstore | Power BI](https://github.com/nguyenhoangdouyen/Sales-Performance-Market-Expansion-For-A-Global-Superstore-Power-BI)  
+Integrated 50K+ sales orders from three CSVs using Power Query for cleaning and transformation. Built a data model, applied Design Thinking, and developed an interactive Power BI dashboard. Used DAX for key metrics and visualizations, providing insights for market expansion and product optimization.
 
 ---
 
-### [Retail Superstore Sales Analysis](https://github.com/nguyenhoangdouyen/project-retail-superstore)  
-*Power BI*  
-Transformed 50K+ sales records, built strategic dashboard & DAX measures to drive market and product decisions.
+### [Customer Segmentation For Marketing Campaigns in A Retail Global SuperStore | Python](https://github.com/nguyenhoangdouyen/-Customer-Segmentation-For-Marketing-Campaigns-in-A-Retail-Global-SuperStore-Python)  
+Built an automated RFM scoring model in Python for customer segmentation at SuperStore, enabling targeted marketing strategies. Used EDA with Pandas, NumPy, and visualization tools to analyze customer trends and deliver data-driven recommendations for optimized marketing campaigns and revenue growth.
 
 ---
 
-### [Customer Segmentation with RFM](https://github.com/nguyenhoangdouyen/project-customer-segmentation)  
-*Python (Pandas, Matplotlib, Clustering)*  
-Segmented 500K+ records using RFM scoring. Delivered retention & marketing strategies based on behavioral insights.
+### [Churn Prediction & Segmentation For Retention Strategy For Ecommerce | Machine Learning - Python](https://github.com/nguyenhoangdouyen/Churn-Prediction-Segmentation-For-Retention-Strategy-For-Ecommerce-Machine-Learning---Python)  
+This project aims to predict and segment churned users in e-commerce using Machine Learning and Python, focusing on analyzing behavior, identifying churn patterns, and creating a predictive model. It also segments churned users for targeted retention strategies.
 
 ---
 
-### [Churn Prediction & Segmentation For Retention Strategy (E-commerce)](https://github.com/nguyenhoangdouyen/Churn-Prediction-Segmentation-For-Retention-Strategy-For-Ecommerce-Machine-Learning---Python)  
-*Machine Learning – Python (XGBoost, RFM, Clustering)*  
-Predicted customer churn using ML models and performed segmentation to support retention campaigns. Delivered actionable strategies to reduce churn and boost engagement.
+### [Transaction Payment Performance Analysis For E-Wallet | Python](https://github.com/nguyenhoangdouyen/Transaction-Payment-Performance-Analysis-E-wallet-Python)  
+The "E-Wallet Transaction & Payment Performance Analysis" project analyzes payment and transaction data from an e-wallet platform to optimize performance. It identifies top-selling products, underperforming teams, and classifies transactions, providing insights to improve business efficiency.
 
 ---
-
-### [Transaction Payment Performance Analysis For E-Wallet](https://github.com/nguyenhoangdouyen/Transaction-Payment-Performance-Analysis-E-wallet-Python)  
-*Python (Pandas, Seaborn, Matplotlib)*  
-Analyzed over 1.4 million payment records to identify failed transaction patterns, evaluate system performance, and recommend solutions to reduce failure rates.
-
 
 ## 🛠️ Technical Skills
 
@@ -66,16 +58,12 @@ Analyzed over 1.4 million payment records to identify failed transaction pattern
 **Certifications**  
 - SQL Advanced, Python (HackerRank)  
 - Data Coaching 1:1 (Unigap), Case Mastery (Tomorrow Marketer)  
-- TOEIC (IIG), IC3 (IIG)
+- TOEIC 725, IC3 (IIG)
 
 ---
 
 ## 🤝 Let's Connect
 
 💌 nguyenhoangdouyen@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(← nhớ thay link thật)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/do-uyen-nguyen-hoang/)  
 📂 [My GitHub Projects](https://github.com/nguyenhoangdouyen?tab=repositories)
-
----
-
-*“Make decisions based on data, not assumptions.”*
