@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Transitioning into Data Analytics from a background in FMCG and E-commerce, I leverage over two years of experience in Trade and Commercial roles to drive strategic decision-making. Passionate about uncovering insights from complex data, I am honing my analytical skills to enable data-driven business growth.
+Transitioning into **Data Analytics** from a background in **FMCG and E-commerce**, I leverage over two years of experience in **Trade and Commercial** roles to drive strategic decision-making. Passionate about uncovering insights from complex data, I am honing my analytical skills to enable data-driven business growth.
 
 ---
 
@@ -56,9 +56,9 @@ The "E-Wallet Transaction & Payment Performance Analysis" project analyzes payme
 - 🏆 UEH Excellent Assignment Award 2021  
 
 **Certifications**  
-- SQL Advanced, Python (HackerRank)  
-- Data Coaching 1:1 (Unigap), Case Mastery (Tomorrow Marketer)  
-- TOEIC 725, IC3 (IIG)
+- **SQL Advanced, Python** (HackerRank)  
+- **Data Coaching 1:1** (Unigap), **Case Mastery** (Tomorrow Marketer)  
+- **TOEIC**, **IC3** (IIG)
 
 ---
 
