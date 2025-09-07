@@ -1,6 +1,6 @@
 # 👩‍💻 Nguyễn Hoàng Đỗ Uyên  
 **Data Analyst | FMCG & E-commerce Background**  
-📍 Ho Chi Minh City | 📧 nguyenhoangdouyen@gmail.com | [LinkedIn](https://www.linkedin.com/in/do-uyen-nguyen-hoang/)
+📍 Ho Chi Minh City | 📧 nguyenhoangdouyen@gmail.com
 
 ---
 
